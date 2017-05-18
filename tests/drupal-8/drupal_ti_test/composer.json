@@ -1,7 +1,7 @@
 {
-    "name": "drupal/drupal_ti_test",
+    "name": "drupal/realistic_dummy_content",
     "type": "drupal-module",
-    "description": "Drupal Travis Integration - Test module.",
+    "description": "realistic_dummy_content",
     "homepage": "https://github.com/LionsAd/drupal_ti",
     "license": "GPL-2.0+",
     "repositories": [
